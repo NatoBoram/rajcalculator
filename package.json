@@ -1,15 +1,22 @@
 {
-	"name": "raj-calculator",
-	"description": "Calculator: Is my calculation right?",
-	"author": {
-		"name": "RajSanjel",
-		"url": "https://github.com/RajSanjel"
-	},
-	"dependencies": {
-		"debug": "^4.3.1",
-		"flutter": "^0.0.5",
-		"ms": "^2.1.3",
-		"oauth": "^0.9.15",
-		"redis": "^3.0.2"
-	}
+  "name": "raj-calculator",
+  "description": "Calculator: Is my calculation right?",
+  "author": "RajSanjel (https://github.com/RajSanjel)",
+  "dependencies": {
+    "debug": "^4.3.1",
+    "flutter": "^0.0.5",
+    "ms": "^2.1.3",
+    "oauth": "^0.9.15",
+    "redis": "^3.0.2"
+  },
+  "version": "0.0.0",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:RajSanjel/calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RajSanjel/calculator/issues"
+  },
+  "homepage": "https://github.com/RajSanjel/calculator"
 }
