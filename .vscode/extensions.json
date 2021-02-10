@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "eg2.vscode-npm-script",
+    "github.vscode-pull-request-github",
+    "ms-vscode.github-issues-prs",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "visualstudioexptteam.vscodeintellicode"
+  ]
+}
